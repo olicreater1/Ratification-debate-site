@@ -18,12 +18,6 @@ p {
   font-weight: 200;
 }
 
-.centered {
-  width: 100%;
-  margin: auto;
-  text-align: center;
-  color: #fff;
-}
 a {
   display: block;
   margin: 12px 0;
@@ -43,7 +37,7 @@ a:hover, a:focus {
   box-shadow: 0 2px 12px rgba(70,123,157,0.12);
   text-decoration: none;
 }
-content-div {
+.content-div {
     min-height: 100vh;
     padding: 5vw;
     max-width: 90vw;
@@ -52,4 +46,5 @@ content-div {
     box-shadow: -2px 0 12px rgba(0,0,0,0.06);
     text-align: center;
     align-content: center;
+    margin: auto;
 }
