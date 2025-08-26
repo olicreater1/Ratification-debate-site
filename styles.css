@@ -47,4 +47,5 @@ a:hover, a:focus {
     text-align: center;
     align-content: center;
     margin: auto;
+    padding: auto;
 }
